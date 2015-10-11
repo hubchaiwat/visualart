@@ -1,0 +1,525 @@
+@charset "utf-8";
+#wrapper_first {
+	height: 610px;
+	width: 1020px;
+	clear: none;
+	float: none;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-top: 0px;
+	background-image: url(../images/first_page/welcome_bg.jpg);
+}
+#first_top {
+	height: 98px;
+	width: 1020px;
+}
+#first_middle {
+	height: 362px;
+	width: 1020px;
+}
+#first_ground {
+	height: 150px;
+	width: 1020px;
+}
+#first_lesson_area {
+	height: 362px;
+	width: 535px;
+	margin-left: 192px;
+}
+#button_homepage {
+	height: 117px;
+	width: 337px;
+	margin-top: 8px;
+	margin-left: 355px;
+}
+
+
+
+#wrapper {
+	height: 610px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #FFF;
+}
+#top {
+	height: 183px;
+	width: 1020px;
+	background-image: url(../images/common/top.jpg);
+	background-color: #FFF;
+}
+#main {
+	height: 382px;
+	width: 1020px;
+	background-color: #FFF;
+}
+#left {
+	height: 382px;
+	width: 218px;
+	float: left;
+	background-color: #FFF;
+}
+#right {
+	height: 382px;
+	width: 802px;
+	float: left;
+	background-color: #FFF;
+	background-image: url(../images/home/right_bg.jpg);
+}
+#right_search {
+	height: 382px;
+	width: 802px;
+	float: left;
+	background-color: #FFF;
+	background-image: url(../images/search/search_bg.jpg);
+}
+
+#right_login {
+	height: 382px;
+	width: 802px;
+	float: left;
+	background-color: #FFF;
+	background-image: url(../images/admin/admin_bg.jpg);
+	margin-left: 125px;
+}
+#right_admin {
+	height: 382px;
+	width: 802px;
+	float: left;
+	background-color: #FFF;
+	background-image: url(../images/admin/admin_bg.jpg);
+}
+
+
+
+#right_lesson {
+	height: 382px;
+	width: 802px;
+	float: left;
+	background-color: #FFF;
+	background-image: url(../images/lesson/lesson_bg.jpg);
+}
+#right_knowledge {
+	height: 382px;
+	width: 802px;
+	float: left;
+	background-color: #FFF;
+	background-image: url(../images/knowledge/knowleage_bg.jpg);
+}
+#right_game {
+	height: 382px;
+	width: 802px;
+	float: left;
+	background-color: #FFF;
+	background-image: url(../images/game/game_bg.jpg);
+}
+#right_exam {
+	height: 382px;
+	width: 802px;
+	float: left;
+	background-color: #FFF;
+	background-image: url(../images/test/exam_bg.jpg);
+}
+
+
+
+
+#footer {
+	height: 45px;
+	width: 1020px;
+	background-color: #FF6695;
+}
+.footer_font {
+	font-size: 11px;
+	color: #FFF;
+}
+#search_box {
+	height: 30px;
+	width: 650px;
+	padding-top: 150px;
+	padding-left: 200px;
+	clear: left;
+	float: right;
+}
+#header_news {
+	height: 37px;
+	width: 87px;
+	margin-left: 250px;
+	margin-top: 10px;
+}
+#home_info {
+	height: 50px;
+	width: 600px;
+	float: left;
+	clear: left;
+	margin: 0px;
+}
+#home_info_box {
+	height: 200px;
+	width: 600px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 100px;
+	float: left;
+	clear: left;
+	margin-top: 75px;
+}
+
+#header {
+	height: 25px;
+	width: 100px;
+	padding-top: 10px;
+	padding-left: 10px;
+	clear: left;
+	float: left;
+}
+#game_icon_box {
+	height: 131px;
+	width: 700px;
+	margin-top: 100px;
+	clear: left;
+	float: left;
+	margin-left: 35px;
+}
+#game_icon {
+	height: 131px;
+	width: 170px;
+	margin-left: 50px;
+	float: left;
+}
+#game_name_box {
+	height: 25px;
+	width: 576px;
+	clear: left;
+	float: left;
+	margin-top: 10px;
+}
+#game_name {
+	height: 25px;
+	width: 170px;
+	margin-left: 20px;
+	float: left;
+}
+
+#header2 {
+	height: 30px;
+	width: 250px;
+	margin-left: 275px;
+	margin-top: 13px;
+	float: left;
+}
+.header_font {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+}
+.header_font2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	text-decoration: underline;
+}
+#flash_area {
+	float: left;
+	height: 300px;
+	width: 551px;
+	margin-left: 120px;
+	border: 1px solid #7A7879;
+}
+#question_area {
+	float: left;
+	height: 250px;
+	width: 500px;
+	margin-left: 150px;
+}
+#question_note {
+	float: left;
+	height: 150px;
+	width: 500px;
+	margin-left: 0px;
+}
+
+
+#button_content {
+	height: 25px;
+	width: 102px;
+	float: left;
+	margin-left: 225px;
+	margin-top: 4px;
+}
+#button_exam {
+	height: 25px;
+	width: 111px;
+	float: left;
+	margin-left: 175px;
+	margin-top: 4px;
+}
+#video_box {
+	height: 140px;
+	width: 550px;
+	margin-left: 132px;
+	margin-top: 43px;
+	float: left;
+}
+#video_box2 {
+	height: 140px;
+	width: 550px;
+	margin-left: 132px;
+	margin-top: 7px;
+	float: left;
+}
+
+#video_inside {
+	height: 140px;
+	width: 187px;
+	float: left;
+	margin-left: 0px;
+}
+#video_inside2 {
+	height: 140px;
+	width: 187px;
+	float: left;
+	margin-left: 132px;
+}
+
+#video_name_box {
+	height: 25px;
+	width: 650px;
+	margin-left: 80px;
+	margin-top: 0px;
+	float: left;
+}
+#exam_icon_area {
+	height: 300px;
+	width: 700px;
+	margin-top: 50px;
+	margin-left: 55px;
+}
+#exam_icon_left {
+	height: 80px;
+	width: 310px;
+	float: left;
+}
+#exam_icon_right {
+	height: 80px;
+	width: 310px;
+	margin-left: 375px;
+}
+#exam_icon_row {
+	height: 80px;
+	width: 700px;
+}
+#test_header {
+	height: 70px;
+	width: 290px;
+	margin-left: 260px;
+	margin-top: 20px;
+}
+.infomation_font {
+	font-size: 24px;
+	color: #00F;
+}
+.infomation_font2 {
+	font-size: 24px;
+	color: #F00;
+}
+.infomation_font3 {
+	font-size: 24px;
+	color: #360;
+}
+#admin_header_login {
+	height: 30px;
+	width: 150px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+#admin_header_box {
+	height: 30px;
+	width: 730px;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+#admin_header {
+	height: 30px;
+	width: 500px;
+	margin-left: 300px;
+	margin-top: 25px;
+	float: none;
+}
+#admin_addexam_button {
+	height: auto;
+	width: 120px;
+	margin-left: 0px;
+	margin-top: 0px;
+	float: right;
+	margin-right: 75px;
+}
+
+#admin_lesson {
+	height: 30px;
+	width: 225px;
+	margin-left: 30px;
+	margin-top: 15px;
+	background-color: #FFF;
+	float: left;
+}
+
+.admin_header_font {
+	font-size: 18px;
+	font-weight: bold;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.admin_lesson_font {
+	font-size: 16px;
+	font-weight: bold;
+	color: #00F;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#login_box {
+	height: 150px;
+	width: 350px;
+	margin-top: 50px;
+	float: left;
+	margin-left: 225px;
+}
+
+
+#admin_inside {
+	height: 600px;
+	width: 730px;
+}
+
+#admin_editinfo_box {
+	height: 300px;
+	width: 600px;
+	margin-top: 25px;
+	float: left;
+	margin-left: 100px;
+}
+#admin_editvideo_box {
+	height: 300px;
+	width: 600px;
+	margin-top: 0px;
+	float: left;
+	margin-left: 100px;
+}
+
+#admin_addexam_box {
+	height: 300px;
+	width: 600px;
+	margin-top: 20px;
+	float: left;
+	margin-left: 100px;
+}
+
+.admin_complete {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #00F;
+}
+
+#admin_changepw_box {
+	height: 200px;
+	width: 450px;
+	margin-top: 50px;
+	float: left;
+	margin-left: 210px;
+}
+#wrapper_game {
+	height: 610px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #FFF;
+	background-image: url(../images/game/game_bg_full.jpg);
+}
+#flash_game_box {
+	height: 300px;
+	width: 550px;
+	margin-top: 10px;
+	margin-left: 220px;
+	border: 1px solid #797979;
+}
+#game_header {
+	height: 30px;
+	width: 225px;
+	clear: left;
+	padding-top: 200px;
+	padding-left: 400px;
+}
+.game_header_font {
+	font-size: 24px;
+	font-weight: bold;
+	color: #C00;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#content_area {
+	float: left;
+	height: 300px;
+	width: 725px;
+	margin-left: 25px;
+}
+
+#content_text {
+	height: 270px;
+	width: 725px;
+}
+#content_link {
+	height: 30px;
+	width: 725px;
+}
+.link_normal {
+	font-size: 16px;
+	color: #F00;
+}
+.link_current {
+	font-size: 16px;
+	color: #F00;
+	text-decoration: underline;
+}
+#freespace_result {
+	height: 210px;
+	width: 1020px;
+}
+
+#result_box {
+	height: 320px;
+	width: 650px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+#choose_lesson {
+	height: 300px;
+	width: 550px;
+	margin-top: 50px;
+	margin-left: 125px;
+}
+
+#admin_chooseexam_box {
+	height: 297px;
+	width: 600px;
+	margin-top: 0px;
+	float: left;
+	margin-left: 100px;
+	overflow:auto;
+	clip: rect(auto,auto,auto,auto);
+}
+#admin_chooseexam_box2 {
+	height: 25px;
+	width: 600px;
+	margin-top: 0px;
+	float: left;
+	margin-left: 100px;
+	clip: rect(auto,auto,auto,auto);
+}
+.font_del_quiz {
+	font-size: 16px;
+	color: #00F;
+}
